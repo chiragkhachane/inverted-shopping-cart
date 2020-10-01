@@ -1,11 +1,11 @@
-<mxfile modified="2020-10-01T14:33:11.457Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="VT5PF0lCE0FefbVsOKwS" version="13.7.7" type="github">
+<mxfile modified="2020-10-01T14:34:57.895Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="iNxmN658cllcuS7XRaRV" version="13.7.7" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1030" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kF8uVKDVlM_NQ2_6p4G9-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1013.75" y="350" width="90" height="83.5" as="geometry" />
+          <mxGeometry x="1013.75" y="350" width="86.25" height="83.5" as="geometry" />
         </mxCell>
         <mxCell id="kF8uVKDVlM_NQ2_6p4G9-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="676" y="111" width="230" height="540" as="geometry" />
@@ -62,13 +62,13 @@
           <mxGeometry x="481.5" y="371.5" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="kF8uVKDVlM_NQ2_6p4G9-12" value="Amazon EC-2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="474.5" y="230" width="90" height="20" as="geometry" />
+          <mxGeometry x="475.5" y="332.5" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kF8uVKDVlM_NQ2_6p4G9-13" value="Amazon EC-2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="474.5" y="351.5" width="90" height="20" as="geometry" />
+          <mxGeometry x="475.5" y="449.5" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kF8uVKDVlM_NQ2_6p4G9-14" value="Amazon EC-2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="475.5" y="461" width="90" height="20" as="geometry" />
+          <mxGeometry x="475.5" y="558" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kF8uVKDVlM_NQ2_6p4G9-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="150" width="180" height="130" as="geometry" />
@@ -186,7 +186,7 @@
           <mxGeometry x="745" y="490" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kF8uVKDVlM_NQ2_6p4G9-57" value="MongoDB Atlas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1008.75" y="322.25" width="100" height="20" as="geometry" />
+          <mxGeometry x="1008.75" y="439.5" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kF8uVKDVlM_NQ2_6p4G9-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=open;startFill=0;endArrow=open;endFill=0;strokeWidth=2;strokeColor=#808080;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="kF8uVKDVlM_NQ2_6p4G9-56">
           <mxGeometry relative="1" as="geometry">
